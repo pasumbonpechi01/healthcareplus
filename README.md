@@ -95,12 +95,10 @@ https://healthcareplus-webapp.netlify.app/
 # 📁 Project Structure
 
 ```text
+
 healthcareplus/
 │
 ├── index.html
-├── css/
-├── js/
-├── images/
 ├── home.png
 └── README.md
 ```
