@@ -1,32 +1,147 @@
-# Healthcare Plus – Healthcare Web Application
+<div align="center">
 
-A web application that lets users browse healthcare services and book appointments online, built as a final-year academic project.
+# 🏥 Healthcare Plus
 
-🔗 **Live site:** https://healthcareplus-webapp.netlify.app/
+### Responsive Healthcare Web Application
 
-## About
+A responsive healthcare web application developed as a final-year academic project using **HTML, CSS, JavaScript, and AI-assisted development tools**.
 
-Healthcare Plus is designed to simplify how patients discover healthcare services and schedule appointments. The goal was to build a clean, easy-to-use booking flow that works for non-technical users, from service selection through to confirmation.
+🌐 **Live Demo:** https://healthcareplus-webapp.netlify.app/
 
-## Features
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-- Browse available healthcare services
-- Book and manage appointments online
-- Simple, user-friendly interface designed for accessibility
-- Responsive layout for desktop and mobile
+</div>
 
-## Tech Stack
+---
 
-- HTML, CSS, JavaScript
-- Deployed on Netlify
-- Built with the assistance of AI development tools
+# 📑 Table of Contents
 
-## My Role
+- Overview
+- Features
+- Technologies Used
+- Live Demo
+- Screenshot
+- My Contributions
+- Project Structure
+- Getting Started
+- Future Improvements
+- Project Status
+- Author
 
-- Designed the appointment booking and service-selection workflows
-- Performed manual functional testing across core user flows and fixed usability issues
-- Coordinated project planning, content organization, and deployment
+---
 
-## Status
+# 📖 Overview
 
-Completed as a final-year academic project (2025–2026).
+Healthcare Plus is a responsive healthcare web application that helps users explore healthcare services, view doctor information, and submit appointment requests through an easy-to-use online booking form. The project focuses on delivering a clean, user-friendly experience across desktop and mobile devices.
+
+---
+
+# ✨ Features
+
+- 🏥 Browse healthcare services
+- 👨‍⚕️ View doctor profiles
+- 📅 Submit appointment requests through an online booking form
+- 📱 Responsive design for desktop and mobile devices
+- 🎨 Clean and intuitive user interface
+
+---
+
+# 🛠 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Netlify
+- AI-assisted development tools
+
+---
+
+# 🌐 Live Demo
+
+https://healthcareplus-webapp.netlify.app/
+
+---
+
+# 📸 Screenshot
+
+![Healthcare Plus Homepage](screenshots/home.png)
+
+---
+
+# 👨‍💻 My Contributions
+
+- Designed and developed the appointment booking and service-selection workflows.
+- Built a responsive and user-friendly interface using HTML, CSS, and JavaScript.
+- Used AI-assisted development tools to support the development process.
+- Performed manual functional testing and improved usability.
+- Organized project content and deployed the application on Netlify.
+
+---
+
+# 📁 Project Structure
+
+```text
+healthcareplus/
+│
+├── index.html
+├── css/
+├── js/
+├── images/
+├── screenshots/
+│   └── home.png
+└── README.md
+```
+
+---
+
+# 🚀 Getting Started
+
+1. Clone the repository.
+
+```bash
+git clone https://github.com/pasumbonpechi01/healthcareplus.git
+```
+
+2. Open the project folder.
+
+3. Open `index.html` in your web browser.
+
+---
+
+# 🔮 Future Improvements
+
+- User authentication
+- Database integration
+- Email notifications
+- Online appointment tracking
+- Admin dashboard
+- Patient dashboard
+
+---
+
+# 📌 Project Status
+
+✅ Completed as a Final-Year Academic Project (2025–2026)
+
+---
+
+# 👤 Author
+
+**Pasumbonpechi**
+
+🎓 B.Com Information Technology Graduate
+
+GitHub: https://github.com/pasumbonpechi01
+
+Live Demo: https://healthcareplus-webapp.netlify.app/
+
+---
+
+<div align="center">
+
+⭐ Thank you for visiting this project!
+
+</div>
