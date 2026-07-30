@@ -4,13 +4,16 @@
 
 ### Responsive Healthcare Web Application
 
-A responsive healthcare web application developed as a final-year academic project using **HTML, CSS, JavaScript, and AI-assisted development tools**.
+A modern healthcare web application developed as a final-year academic project using **HTML5, CSS3, JavaScript (ES6), Firebase Authentication, Cloud Firestore, and Netlify**. The application enables users to explore healthcare services, register securely, and submit appointment requests through an intuitive web interface.
 
 🌐 **Live Demo:** https://healthcareplus-webapp.netlify.app/
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript ES6](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cloud Firestore](https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 </div>
@@ -35,7 +38,7 @@ A responsive healthcare web application developed as a final-year academic proje
 
 # 📖 Overview
 
-Healthcare Plus is a responsive healthcare web application that helps users explore healthcare services, view doctor information, and submit appointment requests through an easy-to-use online booking form. The project focuses on delivering a clean, user-friendly experience across desktop and mobile devices.
+Healthcare Plus is a responsive healthcare web application designed to simplify the process of discovering healthcare services and booking appointments. The application provides secure user authentication, appointment request submission, and an admin dashboard for managing application data. It delivers a clean and user-friendly experience across desktop and mobile devices.
 
 ---
 
@@ -43,8 +46,11 @@ Healthcare Plus is a responsive healthcare web application that helps users expl
 
 - 🏥 Browse healthcare services
 - 👨‍⚕️ View doctor profiles
+- 🔐 Secure user registration and login using Firebase Authentication
 - 📅 Submit appointment requests through an online booking form
-- 📱 Responsive design for desktop and mobile devices
+- ☁️ Store and retrieve user information using Cloud Firestore
+- 👨‍💼 Secure admin dashboard for managing application data
+- 📱 Fully responsive design for desktop and mobile devices
 - 🎨 Clean and intuitive user interface
 
 ---
@@ -53,7 +59,9 @@ Healthcare Plus is a responsive healthcare web application that helps users expl
 
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (ES6)
+- Firebase Authentication (Email & Password)
+- Cloud Firestore
 - Netlify
 - AI-assisted development tools
 
@@ -67,17 +75,20 @@ https://healthcareplus-webapp.netlify.app/
 
 # 📸 Screenshot
 
-![Healthcare Plus Homepage](screenshots/home.png)
+![Healthcare Plus Homepage](home.png)
 
 ---
 
 # 👨‍💻 My Contributions
 
-- Designed and developed the appointment booking and service-selection workflows.
-- Built a responsive and user-friendly interface using HTML, CSS, and JavaScript.
-- Used AI-assisted development tools to support the development process.
-- Performed manual functional testing and improved usability.
-- Organized project content and deployed the application on Netlify.
+- Designed and developed the appointment booking and healthcare service workflows.
+- Built a responsive user interface using HTML5, CSS3, and JavaScript (ES6).
+- Implemented secure user authentication using Firebase Authentication (Email & Password).
+- Integrated Cloud Firestore to securely store and retrieve user data.
+- Developed an admin dashboard for managing application data.
+- Used AI-assisted development tools to support development and improve productivity.
+- Performed manual functional testing to identify and resolve usability issues.
+- Deployed the application on Netlify.
 
 ---
 
@@ -90,8 +101,7 @@ healthcareplus/
 ├── css/
 ├── js/
 ├── images/
-├── screenshots/
-│   └── home.png
+├── home.png
 └── README.md
 ```
 
@@ -99,7 +109,7 @@ healthcareplus/
 
 # 🚀 Getting Started
 
-1. Clone the repository.
+1. Clone the repository
 
 ```bash
 git clone https://github.com/pasumbonpechi01/healthcareplus.git
@@ -107,18 +117,22 @@ git clone https://github.com/pasumbonpechi01/healthcareplus.git
 
 2. Open the project folder.
 
-3. Open `index.html` in your web browser.
+3. Configure Firebase credentials.
+
+4. Open `index.html` in your browser.
 
 ---
 
 # 🔮 Future Improvements
 
-- User authentication
-- Database integration
+- Online payment integration
 - Email notifications
-- Online appointment tracking
-- Admin dashboard
-- Patient dashboard
+- Appointment approval workflow
+- Medical records management
+- Video consultation support
+- Multi-language support
+- Analytics dashboard
+- Role-based access control
 
 ---
 
